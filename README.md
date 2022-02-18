@@ -36,3 +36,25 @@ Regression plots and other seaborn visuals: https://seaborn.pydata.org/tutorial/
    
    The data was then presented in dataframes and some basic functions were applied to show counts, median/means and ROI.
    From there visuals were created that further highlighted the data that was used to make the conclusions. 
+   
+   ***
+   
+   ## My Files in this Repo:
+   #### Zipped Data: 
+   
+   The data from IMDB title and ratings files were used
+   #### README: 
+   
+   Containing project info and sources
+   
+   #### Student.ipynb:
+   
+   The jupyter notebook containing the code and presentation
+   
+   #### Phase1Project.pdf:
+   
+   A slide show of the presentation
+   
+   
+   
+   
