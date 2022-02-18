@@ -3,7 +3,7 @@ This phase 1 project is intended to act as a presentation for Microsoft to assis
 
 ### Here is a link to my finished jupyter notebook:
 
-###Here is a list of references I used to help in my coding:
+### Here is a list of references I used to help in my coding:
    Suppressing scientific notation: https://www.tutorialspoint.com/how-to-repress-scientific-notation-in-factorplot-y-axis-in-seaborn-matplotlib ,                                      https://stackoverflow.com/questions/36780948/seaborn-matplotlib-how-to-repress-scientific-notation-in-factorplot-y-axis
    Beautiful Soup tutorial: www.youtube.com/watch?v=XVv6mJpFOb0
    Converting integers: https://stackoverflow.com/questions/32464280/converting-currency-with-to-numbers-in-python-pandas
