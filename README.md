@@ -2,6 +2,7 @@
 This phase 1 project is intended to act as a presentation for Microsoft to assist their entry into the movie industry.
 
 ### Here is a link to my finished jupyter notebook:
+(https://github.com/DtonesOD1/dsc-phase-1-project-v2-3/blob/master/student.ipynb)
 
 ### Here is a list of references I used to help in my coding:
 Suppressing scientific notation:
