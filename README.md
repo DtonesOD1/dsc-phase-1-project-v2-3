@@ -4,14 +4,23 @@ This phase 1 project is intended to act as a presentation for Microsoft to assis
 ### Here is a link to my finished jupyter notebook:
 
 ### Here is a list of references I used to help in my coding:
-Suppressing scientific notation: https://www.tutorialspoint.com/how-to-repress-scientific-notation-in-factorplot-y-axis-in-seaborn-matplotlib ,               https://stackoverflow.com/questions/36780948/seaborn-matplotlib-how-to-repress-scientific-notation-in-factorplot-y-axis          
+Suppressing scientific notation:
+https://www.tutorialspoint.com/how-to-repress-scientific-notation-in-factorplot-y-axis-in-seaborn-matplotlib ,               https://stackoverflow.com/questions/36780948/seaborn-matplotlib-how-to-repress-scientific-notation-in-factorplot-y-axis          
+
 Beautiful Soup tutorial: www.youtube.com/watch?v=XVv6mJpFOb0
+
 Converting integers: https://stackoverflow.com/questions/32464280/converting-currency-with-to-numbers-in-python-pandas
+
 Removing outliers on boxplots: https://stackoverflow.com/questions/22028064/matplotlib-boxplot-without-outliers
+
 Ignoring float error warning: https://stackoverflow.com/questions/12041982/numpy-floatingpointerror-invalid-value-encountered-in-subtract-not-reproducib
+
 Agg Functions: https://datascienceparichay.com/article/pandas-groupby-median/
+
 Dropping duplicates: https://stackoverflow.com/questions/23667369/drop-all-duplicate-rows-across-multiple-columns-in-python-pandas
+
 Creating subset dataframes: https://stackoverflow.com/questions/19237878/subsetting-a-python-dataframe
+
 Regression plots and other seaborn visuals: https://seaborn.pydata.org/tutorial/regression.html , https://seaborn.pydata.org/tutorial/function_overview.html
    
    
