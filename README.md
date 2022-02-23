@@ -25,10 +25,20 @@ Creating subset dataframes: https://stackoverflow.com/questions/19237878/subsett
 Regression plots and other seaborn visuals: https://seaborn.pydata.org/tutorial/regression.html , https://seaborn.pydata.org/tutorial/function_overview.html
    
    
-   ## Project Specifics:
+   ## Overview:
    
    Tasked with making 3 recommendations to Microsoft which was achieved by importing data, cleaning it, then visualize and interpret it.
    
+   ## Business Problem:
+   
+   The purpose of this presentation is to solve the problem Microsoft has of not knowing where to begin within the movie industry. 
+   To help solve these problem I made a few hypotheses and ran the data accordingly, they were:
+
+    -Is there a correlation between a higher budget and higher box officer earnings?
+    -Is there a correlation between a higher number of theater showings and higher earnings?
+    -Does a particular genre of movie tend to have a better return on investment than the others?
+    -Do ratings play a role in how much money a movie will make?  
+    
    ## Data:
    
    The data was imported from IMDB and web-scraped from The Numbers.
