@@ -47,6 +47,26 @@ Regression plots and other seaborn visuals: https://seaborn.pydata.org/tutorial/
    The data was then presented in dataframes and some basic functions were applied to show counts, median/means and ROI.
    From there visuals were created that further highlighted the data that was used to make the conclusions. 
    
+   ## Modeling:
+   
+   Data was then used to create a table of most popular genres, high and low rated movies by genre and box office/ROI returns by genre
+   
+   ## Evaluation:
+   
+   After gathering some simple data and taking a pragmatic approach to analyze and interpret it, I believe the key to Microsoft's success lies within its      ability to afford what the more common movie makers cannot. Microsoft can give themselves their best chance at premium earnings at the box office by        investing more into the production budget and the number of theaters their movies are released in.
+
+   In the beginning of the presentation I hypothesized that higher budgets and theater counts earn more at the box office and from what we learned that        seems to be statistically true. I also asked if there was a particular genre that tended have better returns and whether ratings had any effect on those    returns. What we say is that ratings are distributed pretty evenly, except for the Horror genre. When looking at the horror genre we see that it yielded    fantastic returns despite the fact that they were far more likely to garner poor ratings.   
+   
+   ## Conclusion:
+    
+    An Action movie with a budget of over 200 million dollars and released in a minimum of 4,100 theaters.
+    
+    A Musical with a budget of 100 million and released in a minimum of 3,500 theaters.
+    
+    A horror movie with a budget of approximately 20 million and released in approximately 3,200 theaters.
+
+
+   
    ***
    
    ## My Files in this Repo:
